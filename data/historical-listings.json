@@ -1,0 +1,31 @@
+{
+  "capturadoEl":"2026-10-16",
+  "uso":"Archivo interno de investigación. No es inventario disponible ni oferta comercial. No se conecta al generador del catálogo público.",
+  "unidades":[
+    {
+      "id":"peugeot-2008-785987","titulo":"Peugeot 2008 Allure 1.0 T200","anio":2026,"condicionPublicada":"0 km / a patentar 2026","precio":{"monto":41490000,"moneda":"ARS"},"financiacionObservada":{"entrega":33490000,"capital":8000000,"cuotasEstimadas":[{"cantidad":12,"monto":1024000},{"cantidad":24,"monto":640000},{"cantidad":36,"monto":520000},{"cantidad":48,"monto":464000}],"nota":"Simulador estimativo. Aviso menciona campaña Peugeot-PSA tasa cero, no confirmada; no asociar automáticamente la campaña con las cuotas."},"caracteristicasPublicadas":["Automática","ABS","airbags","climatizador","cámara de retroceso","alerta de punto ciego","frenado autónomo","asistencia de carril"],"permuta":"Anunciada; modalidades y vigencia sin verificar","url":"https://www.deruedas.com.ar/vendo/Peugeot/2008/Nuevo/Mendoza?cod=785987","stockConfirmado":false,"publicar":false
+    },
+    {
+      "id":"peugeot-208-786002","titulo":"Peugeot 208 1.6 Allure MT","anio":2026,"condicionPublicada":"0 km / a patentar 2026","precio":{"monto":32500000,"moneda":"ARS","nota":"Aviso agrega gastos de entrega y patentamiento."},"financiacionObservada":{"entrega":17500000,"capital":15000000,"cuotasEstimadas":[{"cantidad":12,"monto":1950000},{"cantidad":24,"monto":1290000},{"cantidad":36,"monto":1092000},{"cantidad":48,"monto":1002000}],"nota":"Simulador estimativo. Campaña tasa cero anunciada, no confirmada."},"caracteristicasPublicadas":["Manual","aire acondicionado","cámara trasera","ABS","airbags","control de velocidad crucero"],"url":"https://www.deruedas.com.ar/vendo/Peugeot/208/Nuevo/Mendoza?cod=786002","stockConfirmado":false,"publicar":false
+    },
+    {
+      "id":"peugeot-208-805759","titulo":"Peugeot 208 GT T200","anio":2026,"condicionPublicada":"0 km / a patentar 2026","precio":{"monto":37990000,"moneda":"ARS"},"financiacionObservada":{"entrega":22990000,"capital":15000000,"cuotasEstimadas":[{"cantidad":12,"monto":1920000},{"cantidad":24,"monto":1200000},{"cantidad":36,"monto":975000},{"cantidad":48,"monto":870000}],"nota":"Estimación de simulador; otras tarjetas presentan anticipos distintos."},"caracteristicasPublicadas":["Automática","motor turbo","tapizado de cuero","tablero 3D","techo panorámico","sensores de estacionamiento"],"url":"https://www.deruedas.com.ar/vendo/Peugeot/208/Nuevo/Mendoza?cod=805759","stockConfirmado":false,"publicar":false
+    },
+    {
+      "id":"gol-trend-826664","titulo":"Volkswagen Gol Trend 1.6 3 puertas Trendline","anio":2018,"km":150000,"combustible":"Nafta","motor":"1.6 L","potencia":"101 HP","transmision":"Manual","traccion":"Delantera","consumoPromedio":"7,9 l/100 km","precio":{"monto":14700000,"moneda":"ARS"},"permuta":{"menor":true,"mayor":true,"nota":"Tal como aparecía en este aviso individual; no generalizar a otras unidades."},"financiacionObservada":{"entrega":7350000,"capital":7350000,"cuotasEstimadas":[{"cantidad":12,"monto":940800},{"cantidad":24,"monto":588000},{"cantidad":36,"monto":477750},{"cantidad":48,"monto":426300}],"nota":"Estimaciones del simulador, no cotización contractual."},"url":"https://www.deruedas.com.ar/vendo/Volkswagen/Gol-Trend/Usado/Mendoza?cod=826664","stockConfirmado":false,"publicar":false
+    },
+    {
+      "id":"clase-a-808938","titulo":"Mercedes-Benz A 200 Sedán Progressive","anio":2020,"km":60000,"precio":{"monto":34900,"moneda":"USD"},"financiacionObservada":{"nota":"No atribuir las cuotas recuperadas al vehículo: el fragmento parece coincidir con fichas Peugeot y no se pudo verificar."},"url":"https://www.deruedas.com.ar/vendo/Mercedes-Benz/Clase-A/Usado/Mendoza?cod=808938","stockConfirmado":false,"publicar":false
+    },
+    {
+      "id":"frontier-pro4x","titulo":"Nissan Frontier 2.3 C/D 4x4 PRO-4X","anio":2023,"km":79000,"precio":{"monto":49500000,"moneda":"ARS"},"combustible":{"valorObservado":"Nafta","estado":"inconsistente; confirmar con aviso individual, no inferir ni corregir por intuición"},"url":"https://www.deruedas.com.ar/precio/Camionetas/Usados/Peugeot%2CShineray%2CNissan/Peugeot%3APartner/Nafta/Mendoza?codUsr=40390&combustible=Nafta&condicion=Usados&marca=Peugeot%2CShineray%2CNissan&modelo=Peugeot%3APartner&provincia=1&segmento=1","stockConfirmado":false,"publicar":false
+    },
+    {
+      "id":"bmw-328i","titulo":"BMW Serie 3 328i Luxury / Sport Sedan","anio":2014,"km":73000,"precio":{"monto":26500,"moneda":"USD"},"nota":"El catálogo muestra anticipo en pesos sin indicar con claridad tipo de cambio ni fecha de conversión; no reproducir sin confirmar.","url":"https://www.deruedas.com.ar/precio/Autos?codUsr=40390&segmento=0","stockConfirmado":false,"publicar":false
+    },
+    {
+      "id":"c4-cactus","titulo":"Citroën C4 Cactus Feel 1.6 VTI 115 CV","anio":2019,"km":112000,"combustible":"Nafta","precio":{"monto":18900000,"moneda":"ARS"},"url":"https://www.deruedas.com.ar/precio/Autos/Volkswagen%2CAudi%2CJeep%2CHyundai%2CCitroen/Audi%3AQ8%2CCitroen%3AC4-Picasso%2CAudi%3ARSQ3%2CVolkswagen%3ABora%2CCitroen%3ABasalt%2CVolkswagen%3APolo%2CJeep%3APatriot%2CAudi%3AA3/Mendoza?codUsr=40390&marca=Volkswagen%2CAudi%2CJeep%2CHyundai%2CCitroen&modelo=Audi%3AQ8%2CCitroen%3AC4+Picasso%2CAudi%3ARSQ3%2CVolkswagen%3ABora%2CCitroen%3ABasalt%2CVolkswagen%3APolo%2CJeep%3APatriot%2CAudi%3AA3&segmento=0","stockConfirmado":false,"publicar":false
+    }
+  ],
+  "reglasDeUso":["Confirmar precio, stock y atributos técnicos individualmente antes de mover un registro al catálogo activo.","No inferir combustible ni condiciones desde filtros URL.","Separar precio, entrega, capital y cuotas; identificar fecha, moneda y gastos adicionales.","Las cuotas son estimativas y no equivalen a oferta formal.","Aplicar una fecha de verificación y responsable antes de mostrar públicamente." ]
+}

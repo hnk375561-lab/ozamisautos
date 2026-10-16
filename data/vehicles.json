@@ -1,6 +1,6 @@
 {
-  "fuente":"Dossier Maestro Ozamis Autos y Motos, 16/10/2026",
+  "fuente":"Dossier Maestro Ozamis Autos y Motos y Dossier Complementario II",
   "relevadoEl":"2026-10-16",
   "autos":[],
-  "nota":"No hay unidades cargadas porque los ejemplos del dossier son muestras históricas de avisos indexados, no disponibilidad confirmada. Agregar vehículos solo después de validar ficha, precio y stock actuales con el negocio."
+  "nota":"No hay unidades cargadas porque los ejemplos de ambos dossiers son muestras históricas, no disponibilidad confirmada. Antes de publicar una ficha, verificar con el negocio y conservar fuente y fecha. Campos opcionales recomendados: titulo, marca, modelo, version, anio, km, condicion, precio y moneda, gastos adicionales, combustible, motor, potencia, transmision, traccion, equipamiento, permutaMenor, permutaMayor, financiacion confirmada, url, verificadoEl, estado. No inferir atributos ni mostrar ofertas/campañas de financiación sin confirmación vigente."
 }
