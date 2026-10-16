@@ -1,12 +1,12 @@
-# Estado del sitio
+# Ozamis Autos y Motos — estado
 
-Sitio estático generado desde `data/` (ver `README.md`): `index.html`, `reserva.html`, `privacidad.html` y `404.html`. Es una **demo no indexable** de Horizonte Automotores (María Grande, Entre Ríos), armada con información pública (`noindex`, ver `CLAUDE.md` regla 7).
+- Proyecto convertido a una demo informativa centrada exclusivamente en Ozamis Autos y Motos.
+- Ubicación pública: Av. San Martín Sur 1123, Godoy Cruz, Mendoza.
+- Teléfono/WhatsApp: +54 261 561-8888 / https://wa.me/5492615618888.
+- No se incluye inventario como vigente: los avisos y precios del dossier son históricos y deben confirmarse.
+- Horarios, correo y perfiles sociales exactos pendientes de confirmación.
+- La web conserva estado demo no oficial, no indexable.
 
-## Estructura de index.html
-Hero · Unidades · Comparador · Cómo comprar · Financiación · Tu usado · Contanos qué auto buscás · Guía · Visita · Nosotros · Contacto (con mapa). Ids: `unidades`, `comparador`, `como-comprar`, `financiacion`, `tu-usado`, `busqueda`, `guia`, `visita`, `nosotros`, `contacto`. `#tu-usado` solo existe si `services.published` tiene `permuta`; `#comparador` solo con 2 o más unidades.
+## Para regenerar
 
-## Reglas
-Ver `CLAUDE.md`. Datos en `data/dealership.json` y `data/vehicles.json`; verificar con `npm test`.
-
-## Pendiente
-Ver `data/pendientes.json` y `golive/SECCIONES-PENDIENTES.md`. Bloqueantes: P1 (teléfono/WhatsApp), P4 (fotos), P5 (stock), más P15 (relación con el grupo).
+`npm run build` y luego `npm test`.
